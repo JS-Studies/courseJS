@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first program</title>
+    <style>
+        body{
+            background-color: rgb(117, 201, 201);
+            color: white;
+            font: normal 12px Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello </h1>
+    <p>Nice to meet you</p>
+
+    <script>
+      var n1 = window.prompt("Digite um número :");
+      var n2 = window.prompt("Digite outro número :");
+      // O operador + serve para concatenação e adição
+      // number + number para adição.
+      // string + string para concatenação
+      
+      // Number.parseInt(string) faz parse de string para int
+      // Number.parseFloat(string) faz parse de string para ponto flutuante
+      
+      var soma = Number.parseInt(n1) + Number.parseInt(n2);
+      window.alert("A soma dos números é :" + soma)
+    </script>
+</body>
+</html>
