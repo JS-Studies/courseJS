@@ -53,4 +53,30 @@ Se adicionarmos mais um = adicionamos a validação de tipo.
 por isso 5 == "5" retorna true
 e 5 === "5" retorna false 
 
-Operadores 
+Operadores Lógicos
+
+- !  -> Negação
+- && -> Conjunção ou É lógico
+- || -> Disjunção ou OU lógico
+
+Operador ternário
+ - teste ? true : false
+
+  - ex : media >7 ? "Aprovado" : "Reprovado"
+
+# Aula 09
+O que é a DOM (Document Object Model)
+
+Funciona como uma árvore hierárquica
+E possível inserir código na pagina HTML com Js por meio do DOM adicionando novos nodes na árvore
+
+existem as seguintes maneiras de selecionar nodes:
+- por Marca  -> getElementsByTagName()
+- por ID     -> getElementById()1
+- por Nome   -> getElementsByName()
+- por Classe -> getElementsByClassName()
+- por Seletor-> querySelector()
+
+
+innerText -> Texto interno da tag html
+innerHtml -> pega todo HTML do node
