@@ -86,11 +86,11 @@ innerHtml -> pega todo HTML do node
 Eventos na DOM
 É tudo que pode ocorrer com um elemento html:
   movimentos de mouse:
-    - mouseenter
-    - mousemove
-    - mousedown
-    - click
-    - mouseout 
+  - mouseenter
+  - mousemove
+  - mousedown
+  - click
+  - mouseout 
 
 Funções
   São blocos de codigo executados quando chamados e retornam ou não algum resultado
