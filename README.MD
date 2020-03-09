@@ -96,3 +96,10 @@ Funções
   São blocos de codigo executados quando chamados e retornam ou não algum resultado
 
 Os eventos podem ser disparados do HTML ou do JavaScript
+
+# Aula 11
+
+Condições em JS
+- if
+- else
+- else if
