@@ -80,3 +80,19 @@ existem as seguintes maneiras de selecionar nodes:
 
 innerText -> Texto interno da tag html
 innerHtml -> pega todo HTML do node
+
+# Aula 10
+
+Eventos na DOM
+É tudo que pode ocorrer com um elemento html:
+  movimentos de mouse:
+    - mouseenter
+    - mousemove
+    - mousedown
+    - click
+    - mouseout 
+
+Funções
+  São blocos de codigo executados quando chamados e retornam ou não algum resultado
+
+Os eventos podem ser disparados do HTML ou do JavaScript
