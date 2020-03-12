@@ -100,6 +100,10 @@ Os eventos podem ser disparados do HTML ou do JavaScript
 # Aula 11
 
 Condições em JS
-- if
-- else
-- else if
+- if -> ocorre caso a condição seja atendida.
+- else -> Ocorre caso a condição não seja atendida.
+- else if -> Ocorre caso a condição do if não seja atendida mas a do else if seja atendida.
+
+# Aula 12
+
+- Switch -> possibilita uma condição multipla ou varios testes.
